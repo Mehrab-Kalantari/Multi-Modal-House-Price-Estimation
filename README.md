@@ -4,4 +4,4 @@ House price estimation from visual and textual features
 [Dataset](https://github.com/emanhamed/Houses-dataset)
 
 
-Details explained in **Final Report** file.
+Details explained in **Report** file.
